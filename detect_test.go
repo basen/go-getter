@@ -57,7 +57,7 @@ func TestDetect(t *testing.T) {
 			false,
 		},
 
-		// https://github.com/hashicorp/go-getter/pull/124
+		// https://github.com/basen/go-getter/pull/124
 		{
 			"git::ssh://git@my.custom.git/dir1/dir2",
 			"",

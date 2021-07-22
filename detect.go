@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/hashicorp/go-getter/helper/url"
+	"github.com/basen/go-getter/helper/url"
 )
 
 // Detector defines the interface that an invalid URL or a URL with a blank

@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	urlhelper "github.com/hashicorp/go-getter/helper/url"
+	urlhelper "github.com/basen/go-getter/helper/url"
 	safetemp "github.com/hashicorp/go-safetemp"
 )
 
